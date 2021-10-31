@@ -1,0 +1,18 @@
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid rgb(12, 26, 75);
+    font-size: 70px;
+}
+#b{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 520px;
+}
+*{
+    color: rgb(20, 87, 29);
+}
+h1, p {
+    color:  rgb(12, 26, 75);
+}
